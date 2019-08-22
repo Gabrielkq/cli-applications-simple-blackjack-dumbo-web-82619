@@ -42,7 +42,7 @@ answer = get_user_input
   if answer == "h"
   total += deal_card
   elsif answer == "s"
-  total
+  return total
   else 
     invalid_command
     hit?(total)
