@@ -45,8 +45,7 @@ answer = get_user_input
   total
   else 
     invalid_command
-    prompt_user
-    get_user_input
+    hit(total)
   end
   
 end
