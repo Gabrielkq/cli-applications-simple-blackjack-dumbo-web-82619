@@ -61,7 +61,13 @@ end
 #####################################################
 
 def runner
-welcome
+  # code runner here
+  welcome 
+#   cards = initial_round
+#   while cards < 21 do
+#     cards = hit?(cards)
+#     display_card_total(cards)
+#   end
+# end_game
 end
-
     
