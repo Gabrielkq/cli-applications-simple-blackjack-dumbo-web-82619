@@ -47,7 +47,7 @@ answer = get_user_input
     invalid_command
     hit?(total)
   end
-  
+  return total
 end
 
 def invalid_command
